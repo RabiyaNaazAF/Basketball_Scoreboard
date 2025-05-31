@@ -2,6 +2,9 @@
 
 A simple and interactive basketball scoreboard web app that allows users to keep track of scores for both "Home" and "Guest" teams.
 
+# click here to get teh website link
+
+https://basketball-score-r.netlify.app/
 
 ## 🚀 Features
 
