@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    background-color: #1F2833;
+    color: aqua;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    
+}
+h1{
+    text-align: center;
+}
+
+#home-score, #home-scoreg{
+border-color: #C5C6C7;
+background-color: black;
+height: 50px;
+width: 50px;
+
+ text-align: center;
+ justify-content: center;
+}
+button {
+    background-color:#C5C6C7 ;
+ 
+}
